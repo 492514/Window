@@ -26,6 +26,7 @@ html,body{
 .box {
     height: 80%;
     width: 50%;
+    flex-wrap: wrap;
     position: absolute;
     background-color: rgba(0, 0, 0, 0.616);
     margin-right: 23rem;
@@ -64,6 +65,7 @@ html,body{
     align-items: center;
     margin-top: 2rem;
     margin-left: 1rem;
+    background-color: aqua;
 }
 .app i{
     color: white;
