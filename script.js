@@ -39,3 +39,4 @@ document.addEventListener("click", function(){
 winbtn.addEventListener("click", function(){
     box.classList.toggle("show");
 })
+
